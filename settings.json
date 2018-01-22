@@ -1,0 +1,39 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "statusBar.foreground": "#888",
+        "statusBar.background": "#181818",
+        "sideBar.foreground": "#888"
+    },
+    "workbench.colorTheme": "Tomorrow Night Eighties Operator Mono",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.fontFamily": "Fira Code iScript",
+    "editor.fontLigatures": true,
+    "vscode_custom_css.imports": ["file:///Volumes/MacintoshHD/Users/justinlau/Documents/styles.css"],
+    "editor.fontSize": 12,
+    "editor.rulers": [80, 100],
+    "editor.smoothScrolling": true,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "off",
+    "workbench.editor.enablePreview": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "editor.renderIndentGuides": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": true,
+        "suppressWelcomeNotice": true
+    },
+    "window.zoomLevel": 0,
+    "material-icon-theme.showUpdateMessage": false,
+    "python.linting.enabledWithoutWorkspace": false
+}
